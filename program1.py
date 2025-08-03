@@ -1,4 +1,4 @@
-arr = [10, 20, 30, 40, 50]
+arr = [10, 20, 30, 88, 99]
 
 # Accessing elements
 print(arr[2])  # Output: 30
